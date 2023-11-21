@@ -11,7 +11,7 @@ User can input their search
 User can view infromation regarding the movie
 
 Here's a walkthrough of implemented user stories: 
-/Users/michele/Desktop/Untitled design.gif
+https://github.com/m1chele11/Project8/blob/main/Project8.gif
 Notes
 
 Took me a while to figure out how I want to implement everything, I found myself coding then deleting and trying another way that might be more efficient overall used a lot of planning. I wasn't able to figure out a network bug with the emulator so i will be looking into this. License
