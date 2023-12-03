@@ -1,20 +1,22 @@
 # michele Movie browsing App
-Description of the project: The app that was developed so that the user can search for a movie and find information about it. The user can share the movie or view the IMB website of the movie. 
+Description of the project: The app that was developed so that the user can play with the phones sensors. 
 
 Functionality
 
 The following functionality is completed:
 
-User can select the movie they want to see
-User can toggle how many searches they want to do
-User can input their search
-User can view infromation regarding the movie
+User can play with gestures
+User can view the phones location
+User can do a fling operation
+User can view temperature and air pressure
 
 Here's a walkthrough of implemented user stories: 
-https://github.com/m1chele11/Project8/blob/main/Project8.gif
+https://github.com/m1chele11/Project8/blob/main/Project10.gif
 Notes
 
-Took me a while to figure out how I want to implement everything, I found myself coding then deleting and trying another way that might be more efficient overall used a lot of planning. I wasn't able to figure out a network bug with the emulator so i will be looking into this. License
+Took me a while to figure out how I want to implement everything, I found myself coding then deleting and trying another way that might be more efficient overall used a lot of planning. I wasn't able to figure out a network bug with the emulator so i will be looking into this. 
+
+License
 
 Copyright [2023] [Michele Barrantes]
 
