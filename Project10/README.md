@@ -12,6 +12,8 @@ User can view temperature and air pressure
 
 Here's a walkthrough of implemented user stories: 
 https://github.com/m1chele11/Project8/blob/main/Project10.gif
+[
+](https://github.com/m1chele11/Project8/blob/main/Project10/Project10.gif?raw=true)
 Notes
 
 Took me a while to figure out how I want to implement everything, I found myself coding then deleting and trying another way that might be more efficient overall used a lot of planning. I wasn't able to figure out a network bug with the emulator so i will be looking into this. 
