@@ -12,6 +12,7 @@ User can view temperature and air pressure
 
 Here's a walkthrough of implemented user stories: 
 https://github.com/m1chele11/Project8/blob/main/Project10/Project10.gif?raw=true
+https://github.com/m1chele11/Project8/blob/main/Project10/Project10.gif
 
 [
 ](https://github.com/m1chele11/Project8/blob/main/Project10/Project10.gif?raw=true)
